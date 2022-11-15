@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900');
+
+*{
+    font-family: 'Popppins', sans-serif;
+}
+
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(97deg, rgba(2,0,36,1) 0%, rgba(153,4,218,1) 0%, rgba(124,44,225,1) 52%, rgba(0,212,255,1) 100%);
+
+}
+
+.form-añadir{
+    -webkit-box-shadow: -1px 7px 32px 13px rgba(0,0,0,0.39);
+-moz-box-shadow: -1px 7px 32px 13px rgba(0,0,0,0.39);
+box-shadow: -1px 7px 32px 13px rgba(0,0,0,0.39);
+}
+
+.form-lista{
+    -webkit-box-shadow: -1px 7px 32px 13px rgba(0,0,0,0.39);
+    -moz-box-shadow: -1px 7px 32px 13px rgba(0,0,0,0.39);
+    box-shadow: -1px 7px 32px 13px rgba(0,0,0,0.39);
+}
